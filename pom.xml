@@ -6,6 +6,10 @@
     <groupId>ru.yandex</groupId>
     <artifactId>yandex-qaa</artifactId>
     <version>1.0</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>sprint4_selenium</module>
+    </modules>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
