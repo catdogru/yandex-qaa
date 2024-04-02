@@ -28,6 +28,11 @@ public class ImportantQuestionsTest {
                 {0, questionIndex2answer.get(0)},
                 {1, questionIndex2answer.get(1)},
                 {2, questionIndex2answer.get(2)},
+                {3, questionIndex2answer.get(3)},
+                {4, questionIndex2answer.get(4)},
+                {5, questionIndex2answer.get(5)},
+                {6, questionIndex2answer.get(6)},
+                {7, questionIndex2answer.get(7)},
         };
     }
 
